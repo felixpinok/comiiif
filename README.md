@@ -6,3 +6,13 @@ comiiie Presentaciones para la Asignatura Composición III en Instituto Profesio
 002 [https://felixpinok.github.io/comiiif/002/](https://felixpinok.github.io/comiiif/002/)
 
 003 [https://felixpinok.github.io/comiiif/003/](https://felixpinok.github.io/comiiif/003/)
+
+004 [https://felixpinok.github.io/comiiif/004/](https://felixpinok.github.io/comiiif/004/)
+
+005 [https://felixpinok.github.io/comiiif/005/](https://felixpinok.github.io/comiiif/005/)
+
+006 [https://felixpinok.github.io/comiiif/006/](https://felixpinok.github.io/comiiif/006/)
+
+007 [https://felixpinok.github.io/comiiif/007/](https://felixpinok.github.io/comiiif/007/)
+
+008 [https://felixpinok.github.io/comiiif/008/](https://felixpinok.github.io/comiiif/008/)
